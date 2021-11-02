@@ -1,4 +1,4 @@
-
+# Hi, I'm Valerio
 - :zap: Full stack developer wannabe
 - :heart: I love many languages and technologies like Javascript, Node.js, TypeScript, React, Vue.js, Java, PHP, C++, Dart and React Native
 - :earth_africa: My goal is to spread new technologies and systems around the world.
