@@ -1,5 +1,5 @@
 # Hi, I'm Valerio
-I am a Computer Engineering student and a fullstack developer wannabe
+Computer engineering student
 
 See my used langs:
 
