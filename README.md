@@ -1,4 +1,4 @@
-# Hi, I'm Valerio
+# Valerio T.
 Computer engineering student
 
 See my used langs:
