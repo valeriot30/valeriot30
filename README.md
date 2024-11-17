@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valerio, i have a computer engineering degree at @unime. I'm currently attending the MSc course at @unime in Engineering in Computer Science. Check out my works!</h1>
+<h1 align="center">Hi 👋, I'm Valerio, i have a computer engineering degree at @unime. I'm currently attending the MS course at @unime in Engineering in Computer Science. Check out my works!</h1>
 <div> <a href="https://github.com/valeriot30" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
