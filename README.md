@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Valerio, i have a computer engineering degree at @unime. I'm currently attending the MS course at University of Pisa in Computer Engineering. My current research interests are on performance evaluation of computer systems and networks using formal methods for getting metrics like Quality of Service and Quality of Experience, real time/parallel computing and machine learning.</h3>
+<h3 align="center">Hi 👋, I'm Valerio, i have a computer engineering degree at @unime. I'm currently attending the MS course at University of Pisa in Computer Engineering. My current research interests are on performance evaluation of computer systems and networks for studying QoS and QoE, real time/parallel computing and machine learning.</h3>
 <div> <a href="https://github.com/valeriot30" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
